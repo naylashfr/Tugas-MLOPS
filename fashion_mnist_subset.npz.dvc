@@ -1,0 +1,5 @@
+outs:
+- md5: b03abf783160b0296fc02cd0819c2f30
+  size: 10250180
+  hash: md5
+  path: fashion_mnist_subset.npz

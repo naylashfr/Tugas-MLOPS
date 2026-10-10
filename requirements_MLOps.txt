@@ -1,0 +1,9 @@
+mlflow>=2.9
+optuna>=3.0
+dvc>=3.0
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+matplotlib
